@@ -1,4 +1,4 @@
-# Matthew Thomas Portfolio
+# Matthew Thomas Engineering Portfolio
 Hello! My name is Matthew Thomas, and I am an Aerospace Engineering 
 Student at the University of Maryland. This portfolio is intended to supplement my 
 resume and give you a more profound understanding of my practical experience.
